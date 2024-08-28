@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1TjdZm5U6EXfL9pBNSlXQwo8btkVnSLvt/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:anupamasanthosh730@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://anupamasanthosh.github.io/Personal/
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oWlXeAn-dlF3cJ14YaLLmLzKWpLnKJsP/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:anupamasanthosh730@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://anupamasanthosh.github.io/Personal/
 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupama-k-bb5b03219/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-greeen.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anupamasanu572/) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/__Anupama/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/____.anupama.___/) 
 
 
@@ -72,7 +72,7 @@
 
 ## 🔗 Links
 
-[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1TjdZm5U6EXfL9pBNSlXQwo8btkVnSLvt/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:anupamasanthosh730@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://anupamasanthosh.github.io/Personal/
+[![Resume](https://img.shields.io/badge/Resume-%239146FF.svg?logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oWlXeAn-dlF3cJ14YaLLmLzKWpLnKJsP/view?usp=sharing) [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:anupamasanthosh730@gmail.com) [![Portfolio](https://img.shields.io/badge/-Portfolio-FE7A16?logo=Google-chrome&logoColor=white)](https://anupamasanthosh.github.io/Personal/
 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupama-k-bb5b03219/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-greeen.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/anupamasanu572/) [![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/__Anupama/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/____.anupama.___/) 
 
 ---
